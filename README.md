@@ -5,10 +5,10 @@ Practice building a full CRUD review application as practice.
 
 
 
-# Ruby version: 2.7.4
-# Rails version: 6.0.3.4
-# Database: postgresql
-# React version: 16.12.0
-# React Hooks API
-# React Context API
+* Ruby version: 2.7.4
+* Rails version: 6.0.3.4
+* Database: postgresql
+* React version: 16.12.0
+* React Hooks API
+* React Context API
 
