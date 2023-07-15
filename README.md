@@ -1,6 +1,6 @@
 # Motivation: Practice building a full CRUD review application as practice.
 # Youtube Tutorial
-[https://youtu.be/oyjzi837wME](Let's Build a CRUD app with Ruby on RAils and REact.js - Part 1)
+[https://youtu.be/oyjzi837wME](Lets Build a CRUD app with Ruby on RAils and REact.js - Part 1)
 
 
 
