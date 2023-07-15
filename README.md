@@ -1,4 +1,11 @@
-# README
+# Motivation: Practice building a full CRUD review application as practice.
+# Youtube Tutorial
+(https://youtu.be/oyjzi837wME "Let's Build a CRUD app with Ruby on RAils and REact.js - Part 1")
+
+
+# Ruby version: 2.7.4
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
